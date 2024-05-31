@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis-Using-SQL
+# SQL_Project_Pizza_Store_Sales_Analysis
 Hello Everyone Well-come to Pizza Sales Analysis Project.....
 
 In This Project I was Solved The following Problems
